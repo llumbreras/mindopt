@@ -3,6 +3,7 @@ source 'https://rubygems.org'
 gem 'rails', '3.2.13'
 gem 'bootstrap-sass'
 gem 'simple_form'
+gem 'devise'
 
 # Added for Rails Console
 gem 'execjs'
